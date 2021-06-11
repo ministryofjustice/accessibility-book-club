@@ -12,15 +12,14 @@ This is still in draft form, and is to be iterated on.
 ## In the session
 
 ### Introductions
-Start off by inviting people to share their names, job roles, and optionally, pronouns.
+Start off by inviting people to share:
+- their name
+- job title
+- optionally, pronouns
 
-The session facilitator would ideally be the one to nominate who goes next after an introduction is finished, as they can more easily keep track of who's not gone yet. 
+The session facilitator would ideally be the one to nominate who goes next, after an introduction is finished. Introducing yourself to a group of new people can sometimes be a little scary or stressful, so this removes the added pressure of having to remember who's already gone. It also means that late joiners don't get put in a position where they have to pick, given they don't know who went before they joined.
 
-This is because introducing yourself to a group of new people can sometimes be a little scary or stressful, so this removes the added pressure of having to remember who's already gone and who to nominate after you've finished doing that. 
-
-It also means that late joiners don't get put in a position where they have to pick a next person, not knowing who went before they joined.
-
-### Setting groundrules
+### Setting ground rules
 - Go over the key points in your code of conduct verbally (don't assume everyone has had time to read it beforehand)
 - Discuss how to have the discussion - suggest that if people want to say something, raise their hand (either physically, or using functionality in the app you're having the conversation in)
 - Mistakes happen. [Introduce 'oops, ouch'](http://teachpaperless.blogspot.com/2011/06/oops-ouch.html) - where you say 'oops' to communicate you said something by accident that you regret, or 'ouch' to communicate that something someone else has said has caused you discomfort
