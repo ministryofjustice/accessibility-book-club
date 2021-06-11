@@ -10,6 +10,8 @@ This list aims to focus on books that centre disabled people, rather than access
 - ‘Being Heumann’ by Judith Heumann
 - ‘Mismatch’ by Kat Holmes
 - ‘Accessibility for everyone’ by Laura Kalbag
+- 'Inclusive Design for a Digital World' by Regine M. Gilbert
+- 'Design meets Disability' - Graham Pullin
 
 ## Films
 - ‘Crip Camp’ (available on Netflix)
