@@ -26,16 +26,13 @@ It also means that late joiners don't get put in a position where they have to p
 - Mistakes happen. [Introduce 'oops, ouch'](http://teachpaperless.blogspot.com/2011/06/oops-ouch.html) - where you say 'oops' to communicate you said something by accident that you regret, or 'ouch' to communicate that something someone else has said has caused you discomfort
 
 ### Getting people talking
-Invite people to spend 3 minutes thinking about the questions, on their own. 
-
-In the session, first put people into groups of 2-4, so they can discuss their ideas in a smaller group.
-
-After 5-10 minutes, bring everyone back into the main space, and invite each group to share what they discussed.
+- Invite people to spend 3 minutes thinking about the questions, on their own. 
+- Then, put people into groups of 2-4, so they can discuss their ideas in a smaller group.
+- After 5-10 minutes, bring everyone back into the main space, and invite each group to share what they discussed.
 
 The above is all based off of the [1-2-4-all concept in Liberating Structures](https://www.liberatingstructures.com/1-1-2-4-all/).
 
 ### Wrapping up
-Thank people for attending, and for sharing their thoughts.
-
-Consider having a vote, to decide on what the group discusses next time. 
+- Thank people for attending, and for sharing their thoughts.
+- Consider having a vote, to decide on what the group discusses next time. 
 
