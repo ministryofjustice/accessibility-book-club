@@ -23,7 +23,7 @@ It also means that late joiners don't get put in a position where they have to p
 ### Setting groundrules
 - Go over the key points in your code of conduct verbally (don't assume everyone has had time to read it beforehand)
 - Discuss how to have the discussion - suggest that if people want to say something, raise their hand (either physically, or using functionality in the app you're having the conversation in)
-- [Introduce 'oops, ouch'](http://teachpaperless.blogspot.com/2011/06/oops-ouch.html) - where you say 'oops' for if you've said something by accident that you regret, or 'ouch' to communicate that something someone else has said has caused you discomfort
+- Mistakes happen. [Introduce 'oops, ouch'](http://teachpaperless.blogspot.com/2011/06/oops-ouch.html) - where you say 'oops' to communicate you said something by accident that you regret, or 'ouch' to communicate that something someone else has said has caused you discomfort
 
 ### Getting people talking
 Invite people to spend 3 minutes thinking about the questions, on their own. 
