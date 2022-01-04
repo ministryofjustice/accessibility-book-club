@@ -1,0 +1,46 @@
+
+{% extends "layout_unbranded.html" %}
+
+{% block pageTitle %}
+  Home - Running an Accessibility Book Club
+{% endblock %}
+
+{% block content %}
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-xl">
+        Running an Accessibility Book Club
+      </h1>{{releaseVersion | log }}
+
+      <p>
+        This is a collection of resources designed to help you facilitate your own Accessibility Book club.
+      </p>
+
+      <p>
+        Read the accompanying blog post [LINK] for more context about the concept, or carry on reading below to go straight to how to run one.
+      </p>
+
+      <h2 class="govuk-heading-m">Suggestion for how to structure your book club</h2>
+
+      <p>A structure that has tested well is 30 minute sessions, once a month, on an online platform like Microsoft Teams or Google Meet. Attendees suggesting books/podcasts/films, and then us voting to decide which one to discuss also works well.</p>
+
+      <p>It works well to have a designated facilitator per session, too, who is responsible for calendar admin, creating or finding discussion guides, and creating the poll to decide what we discuss next week.</p>
+
+      <h2 class="govuk-heading-m">Key resources</h2>
+
+      <ul class="govuk-list govuk-list--bullet">
+        <li>
+          <a href="/facilitating-sessions">Guide to facilitating book club sessions</a>
+        </li>
+        <li>
+          <a href="/reading-list">Reading list</a>
+        </li>
+        <li>
+          <a href="">How to contribute a discussion guide</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+{% endblock %}
