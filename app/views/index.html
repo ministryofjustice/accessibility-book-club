@@ -1,8 +1,8 @@
 
-{% extends "layout.html" %}
+{% extends "layout_unbranded.html" %}
 
 {% block pageTitle %}
-  GOV.UK Prototype Kit
+  Home - Running an Accessibility Book Club
 {% endblock %}
 
 {% block content %}
@@ -10,32 +10,37 @@
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
       <h1 class="govuk-heading-xl">
-        The GOV.UK Prototype Kit
-        <span class="govuk-caption-xl">{{releaseVersion}}</span>
+        Running an Accessibility Book Club
       </h1>{{releaseVersion | log }}
+
       <p>
-        This kit lets you rapidly create HTML prototypes of GOV.UK services.
+        This is a collection of resources designed to help you facilitate your own Accessibility Book club.
       </p>
 
       <p>
-        It contains all you need to prototype anything from simple static pages to complex, data-driven transactions.
+        Read the accompanying blog post [LINK] for more context about the concept, or carry on reading below to go straight to how to run one.
       </p>
 
-      <h2 class="govuk-heading-m">About this page</h2>
+      <h2 class="govuk-heading-m">Suggestion for how to structure your book club</h2>
 
-      <p>We recommend you add links to your prototype to this page, rather than delete it.
-        You'll find this page in the kit at '/app/views/index.html'.</p>
+      <p>A structure that has tested well is 30 minute sessions, once a month, on an online platform like Hangouts or Meet. Attendees suggesting books/podcasts/films, and then us voting to decide which one to discuss also works well.</p>
 
-      <p>You can change the service name by editing the file '/app/config.js'.</p>
+      <p>It works well to have a designated facilitator per session, too, who is responsible for calendar admin, creating or finding discussion guides, and creating the poll to decide what we discuss next week.</p>
 
-      <h2 class="govuk-heading-m">Examples and documentation</h2>
+      <h2 class="govuk-heading-m">Key resources</h2>
 
       <ul class="govuk-list govuk-list--bullet">
         <li>
-          <a href="/docs/tutorials-and-examples">Example pages and documentation</a>
+          <a href="">Guide to facilitating book club sessions</a>
         </li>
         <li>
-          <a href="https://design-system.service.gov.uk">GOV.UK Design System</a>
+          <a href="">Reading list</a>
+        </li>
+        <li>
+          <a href="">Pre-written discussion guides</a>
+        </li>
+        <li>
+          <a href="">How to contribute a discussion guide</a>
         </li>
       </ul>
     </div>
