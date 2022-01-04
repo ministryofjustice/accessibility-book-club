@@ -1,0 +1,34 @@
+
+{% extends "layout_unbranded.html" %}
+
+{% block pageTitle %}
+  Contribute a discussion guide - Running an Accessibility Book Club
+{% endblock %}
+
+{% block content %}
+
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-xl">
+        Contribute a discussion guide
+      </h1>{{releaseVersion | log }}
+
+      <p>
+        If you would love to contribute a discussion guide, we would love to see it!
+      </p>
+
+      <p>
+        There is a template for a discussion guide, which I recommend you use when formulating questions. There are two ways of submitting a discussion guide:
+      </p>
+
+      <ul class="govuk-list govuk-list--bullet">
+        <li><a href="https://github.com/BNewing/accessibility-book-club">Submit a PR to the 'Accessibility Book Club' repo</a></li>
+        <li><a href="">Fill out 'Accessibility Book Club' Discussion Guide submission form</a></li>
+      </ul>
+
+      <p>This is run on a voluntary basis, so contributions will be looked at as and when I can - but very keen to see submissions, and grow this as a resource. You will be attributed as the creator of the discussion guide.</p>
+
+    </div>
+  </div>
+
+{% endblock %}
