@@ -15,17 +15,6 @@ spec:
       containers:
       - name: prototype
         image: ${REGISTRY}/${REPOSITORY}:${IMAGE_TAG}
-        env:
-          - name: USERNAME
-            valueFrom:
-              secretKeyRef:
-                name: basic-auth
-                key: username
-          - name: PASSWORD
-            valueFrom:
-              secretKeyRef:
-                name: basic-auth
-                key: password
         ports:
         - containerPort: 3000
 ---
@@ -54,9 +43,9 @@ spec:
   ingressClassName: default
   tls:
   - hosts:
-    - ${KUBE_NAMESPACE}-${BRANCH}.apps.live.cloud-platform.service.justice.gov.uk
+    - ${KUBE_NAMESPACE}.apps.live.cloud-platform.service.justice.gov.uk
   rules:
-  - host: ${KUBE_NAMESPACE}-${BRANCH}.apps.live.cloud-platform.service.justice.gov.uk
+  - host: ${KUBE_NAMESPACE}.apps.live.cloud-platform.service.justice.gov.uk
     http:
       paths:
       - path: /
